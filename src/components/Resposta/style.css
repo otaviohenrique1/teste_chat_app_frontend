@@ -1,0 +1,13 @@
+.resposta-container {
+  display: flex;
+}
+
+.btn {
+  display: flex;
+  margin-left: 5px;
+}
+
+.img-btn {
+  height: 16px;
+  width: 16px;
+}

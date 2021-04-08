@@ -1,0 +1,9 @@
+.feedback-container {
+  display: flex;
+  justify-content: center;
+}
+
+.feedback-rate {
+  height: 32px;
+  width: 32;
+}

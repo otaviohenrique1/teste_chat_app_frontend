@@ -1,0 +1,12 @@
+.chat-container {
+  margin: 10px;
+}
+
+.campo-container {
+  margin-top: 10px;
+}
+
+.chat-button-container {
+  display: flex;
+  justify-content: center;
+}
